@@ -19,7 +19,6 @@ const Title = styled.h1`
   }
 `;
 
-
 const Logo = styled.img`
    {
     height: 200px;
